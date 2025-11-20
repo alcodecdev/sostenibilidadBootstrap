@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7f9b6b-7385-4ef0-8ec1-2c8c071711d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="3a7f9b6b-7385-4ef0-8ec1-2c8c071711d2" name="Changes" comment="add archivos html">
+      <change afterPath="$PROJECT_DIR$/images/imagen2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/imagen3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alcodecdev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alcodecdev/sostenibilidadBootstrap.git",
+    "accountId": "f0d29dfd-9619-439d-b78f-cc99d6de27cf"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
@@ -40,6 +54,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/aleasegur/WebstormProjects/sostenibilidadBootstrap/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,6 +64,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,11 +84,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763642402381</updated>
-      <workItem from="1763642403485" duration="829000" />
+      <workItem from="1763642403485" duration="1347000" />
     </task>
+    <task id="LOCAL-00001" summary="add archivos html">
+      <option name="closed" value="true" />
+      <created>1763643333944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763643333944</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add archivos html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add archivos html" />
   </component>
 </project>
