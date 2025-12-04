@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a7f9b6b-7385-4ef0-8ec1-2c8c071711d2" name="Changes" comment="add xml worsplace">
+    <list default="true" id="3a7f9b6b-7385-4ef0-8ec1-2c8c071711d2" name="Changes" comment="correcion del index.html">
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -87,7 +88,9 @@
       <workItem from="1763643772868" duration="212000" />
       <workItem from="1763709678569" duration="39000" />
       <workItem from="1763968901133" duration="19000" />
-      <workItem from="1764246283583" duration="2566000" />
+      <workItem from="1764246283583" duration="2612000" />
+      <workItem from="1764315983952" duration="28000" />
+      <workItem from="1764833262969" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="add archivos html">
       <option name="closed" value="true" />
@@ -113,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763709719195</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="correcion del index.html">
+      <option name="closed" value="true" />
+      <created>1764248889229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764248889229</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +134,7 @@
     <MESSAGE value="add archivos html" />
     <MESSAGE value="add carrusel" />
     <MESSAGE value="add xml worsplace" />
-    <option name="LAST_COMMIT_MESSAGE" value="add xml worsplace" />
+    <MESSAGE value="correcion del index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="correcion del index.html" />
   </component>
 </project>
