@@ -1,3 +1,4 @@
+//ALEJANDRO ASENCIO GURAU
 document.addEventListener('DOMContentLoaded', function() {
     // Definición de las respuestas correctas por el atributo 'name' del radio button
     const correctAnswers = {
