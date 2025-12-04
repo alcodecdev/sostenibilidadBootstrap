@@ -148,3 +148,20 @@ container: mantiene el contenido dentro de los márgenes del diseño.
 text-white en los enlaces: asegura que los hipervínculos sean legibles.
 
 Función: mostrar fuentes, licencias y créditos de manera visible y uniforme.
+
+## 7.Tests
+Este es un cuestionario interactivo desarrollado con **HTML, Bootstrap 5** y **JavaScript** que evalúa el conocimiento sobre el Objetivo de Desarrollo Sostenible (ODS) número 1: Fin de la Pobreza.
+
+El test incluye una característica visual llamativa: el título principal parpadea alternando entre los colores rojo y blanco para captar la atención.
+## ⚙️ Implementación Técnica
+
+### 1. Animación del Título (Parpadeo)
+
+La animación se implementa completamente con **JavaScript** usando las clases de utilidad de Bootstrap para manejar el color y la visibilidad (`text-danger`, `text-white`, `bg-danger`).
+
+#### HTML (Uso del ID)
+
+El título debe tener un `ID` para que JavaScript pueda manipularlo:
+
+```html
+<h2 class="mb-4 text-center fw-bold" id="tituloAnimado">Test Rápido: ODS 1 - Fin de la Pobreza</h2>
